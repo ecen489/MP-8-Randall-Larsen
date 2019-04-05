@@ -1,0 +1,44 @@
+{
+  "project_info": {
+    "project_number": "739618026561",
+    "firebase_url": "https://mp-8-randall-larsen.firebaseio.com",
+    "project_id": "mp-8-randall-larsen",
+    "storage_bucket": "mp-8-randall-larsen.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:739618026561:android:eb10a094ae9870c4",
+        "android_client_info": {
+          "package_name": "com.example.mp_8_randall_larsen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "739618026561-qi9h9pdkf9fdihrpc8vvm8roq4vbsc5a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mp_8_randall_larsen",
+            "certificate_hash": "9c98e6f7b7299791b3c55d30827588b4ee26b407"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAAQi1ExlZeT8izK6zSPJtBVwHIWj6NI4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "739618026561-k5dabame3efci34goqghaogt7okk4cl6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
